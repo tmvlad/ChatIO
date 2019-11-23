@@ -1,4 +1,4 @@
-#ChatIO server implementation
+# ChatIO server implementation
 
 Simple real-time chat app, using the JavaScript Socket.IO library.
 
